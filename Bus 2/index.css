@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.loginpage-child {
+  position: absolute;
+  top: 0;
+  left: 711px;
+  width: 1px;
+  height: 1024px;
+}
+.undraw-walking-outside-re-56xo-icon {
+  position: absolute;
+  top: 175px;
+  left: 89px;
+  width: 548px;
+  height: 398px;
+  overflow: hidden;
+}
+.travel {
+  color: var(--color-orangered);
+}
+.cares-for-your-container {
+  position: absolute;
+  top: 771px;
+  left: 170px;
+  display: inline-block;
+  width: 555px;
+  height: 113px;
+}
+.logini-container-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 1px 6px 10px 5px rgba(206, 205, 205, 0.25);
+  width: 625px;
+  height: 676px;
+}
+.email,
+.login1,
+.password {
+  position: absolute;
+  top: 196px;
+  left: 84px;
+}
+.login1,
+.password {
+  top: 308px;
+}
+.login1 {
+  top: 47px;
+  left: 233px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.logini-container-inner,
+.logini-container-item {
+  position: absolute;
+  top: 236.5px;
+  left: 83.5px;
+  border-top: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 464px;
+  height: 1px;
+}
+.logini-container-inner {
+  top: 346.5px;
+}
+.vector-icon30 {
+  position: absolute;
+  height: 2.47%;
+  width: 4%;
+  top: 47.04%;
+  right: 13.44%;
+  bottom: 50.49%;
+  left: 82.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child10 {
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray-200);
+}
+.group-child10,
+.rectangle-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 148px;
+  height: 60px;
+}
+.login2 {
+  position: absolute;
+  top: 16px;
+  left: 41.77px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserrat);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 70.35px;
+}
+.group-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 389px;
+  left: 399px;
+  width: 148px;
+  height: 60px;
+}
+.logini-container-child1 {
+  position: absolute;
+  top: 389px;
+  left: 84px;
+  border-radius: var(--br-md);
+  background-color: #fdfcfc;
+  box-shadow: 0 1px 8px rgba(163, 163, 163, 0.25);
+  width: 296px;
+  height: 60px;
+}
+.google-1-icon {
+  position: absolute;
+  top: 402px;
+  left: 97px;
+  width: 31px;
+  height: 32px;
+  object-fit: cover;
+}
+.sign-in-with-google {
+  position: absolute;
+  top: 404px;
+  left: 143px;
+  color: #4e4e4e;
+}
+.logini-container {
+  position: absolute;
+  top: 208px;
+  left: 764px;
+  width: 625px;
+  height: 676px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+}
+.images-1-icon {
+  position: absolute;
+  top: 639px;
+  left: 76px;
+  width: 174px;
+  height: 147px;
+  object-fit: cover;
+}
+.loginpage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.login {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

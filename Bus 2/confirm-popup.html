@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./confirm-popup.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="confirm-popup">
+      <div class="rectangle-parent">
+        <div class="group-child"></div>
+        <div class="are-you-sure">
+          Are you sure you want to cancel your booking?
+        </div>
+        <div class="group-item"></div>
+        <div class="cancel">Cancel</div>
+        <div class="rectangle-group">
+          <div class="group-inner"></div>
+          <div class="confirm">Confirm</div>
+          <img class="vector-icon" alt="" src="public/vector.svg" />
+        </div>
+        <img class="icon-cross" alt="" src="public/-icon-cross.svg" />
+      </div>
+      <img
+        class="cancel-icon"
+        alt=""
+        src="public/cancel@2x.png"
+        id="popupcancelIcon"
+      />
+    </div>
+
+    <script>
+      var popupcancelIcon = document.getElementById("popupcancelIcon");
+      if (popupcancelIcon) {
+        popupcancelIcon.addEventListener("click", function (e) {
+          window.location.href = "./my-bookings.html";
+        });
+      }
+      </script>
+  </body>
+</html>

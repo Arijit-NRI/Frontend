@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 830px;
+  height: 728px;
+}
+.am,
+.ultodanga {
+  position: absolute;
+  top: 56px;
+  left: 183px;
+  display: inline-block;
+  width: 155px;
+  height: 23px;
+}
+.ultodanga {
+  top: 57px;
+  left: 421px;
+  color: var(--color-black);
+  width: 226px;
+  height: 22px;
+}
+.am1 {
+  top: 214px;
+  left: 170px;
+  width: 178px;
+  height: 23px;
+}
+.am1,
+.am2,
+.saltlake,
+.shapoorji {
+  position: absolute;
+  display: inline-block;
+}
+.shapoorji {
+  top: 213px;
+  left: 421px;
+  color: var(--color-black);
+  width: 196px;
+  height: 23px;
+}
+.am2,
+.saltlake {
+  top: 349px;
+  left: 183px;
+  width: 158px;
+  height: 22px;
+}
+.saltlake {
+  top: 348px;
+  left: 421px;
+  color: var(--color-black);
+  width: 187px;
+  height: 23px;
+}
+.am3 {
+  top: 496px;
+  left: 183px;
+  width: 158px;
+  height: 23px;
+}
+.am3,
+.am4,
+.chingrighata,
+.nri-fintech {
+  position: absolute;
+  display: inline-block;
+}
+.chingrighata {
+  top: 496px;
+  left: 421px;
+  color: var(--color-black);
+  width: 295px;
+  height: 23px;
+}
+.am4,
+.nri-fintech {
+  top: 634px;
+  left: 183px;
+  width: 158px;
+  height: 29px;
+}
+.nri-fintech {
+  left: 421px;
+  color: var(--color-black);
+  width: 295px;
+  height: 23px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 56.72px;
+  left: 365.62px;
+  width: 27.15px;
+  height: 21.38px;
+}
+.group-child1,
+.group-child2,
+.group-child3,
+.group-child4,
+.line-div {
+  position: absolute;
+  top: 214.77px;
+  left: 365.62px;
+  width: 27.15px;
+  height: 21.38px;
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.line-div {
+  top: 348.66px;
+}
+.group-child3,
+.group-child4,
+.line-div {
+  top: 497.42px;
+}
+.group-child4,
+.line-div {
+  top: 646.18px;
+}
+.line-div {
+  top: 66.91px;
+  left: 378.98px;
+  border-right: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  width: 1px;
+  height: 590.47px;
+}
+.cancel-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 769px;
+  width: 43px;
+  height: 36px;
+  object-fit: cover;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 830px;
+  height: 728px;
+}
+.route-popup {
+  position: relative;
+  width: 852px;
+  height: 728px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-orangered);
+  font-family: var(--font-montserrat);
+}
