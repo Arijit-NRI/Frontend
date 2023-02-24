@@ -1,0 +1,27 @@
+
+
+.my-booking-div{
+    height: 43px;
+    /* width: 225px; */
+    width: 60%;
+    margin: auto;
+    border-radius: nullpx;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    display: flex;
+
+}
+.my-booking-div-text{
+    margin-left: 1%;
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 43px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+   
+
+}
